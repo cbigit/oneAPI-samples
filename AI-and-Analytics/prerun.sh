@@ -1,5 +1,7 @@
-echo 'source /opt/intel/oneapi/setavrs.sh' >> ~/.bashrc
+echo 'source /opt/intel/oneapi/setvars.sh' >> ~/.bashrc
+
 echo 'source activate tensorflow' >> ~/.bashrc
+
 #apt-get install git
 #git clone https://github.com/oneapi-src/oneAPI-samples.git
 #ls
